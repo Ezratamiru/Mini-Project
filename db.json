@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Thomas Hailu",
+      "email": "thomashailu.com",
+      "phone": "+1-202-555-0101",
+      "website": "thomashailu.dev",
+      "company": {
+        "name": "Thomas Co"
+      }
+    },
+    {
+      "id": 2,
+      "name": "keder Hussen",
+      "email": "kederhussen@gmail.com",
+      "phone": "+1-202-555-0102",
+      "website": "kederhussen.io",
+      "company": {
+        "name": "KederWorks"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Carol Nguyen",
+      "email": "carol@example.com",
+      "phone": "+1-202-555-0103",
+      "website": "carol.codes",
+      "company": {
+        "name": "Carol Labs"
+      }
+    },
+    {
+      "id": 4,
+      "name": "David Lee",
+      "email": "david@example.com",
+      "phone": "+1-202-555-0104",
+      "website": "david.dev",
+      "company": {
+        "name": "DL Solutions"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Eva Martinez",
+      "email": "eva@example.com",
+      "phone": "+1-202-555-0105",
+      "website": "evamartinez.me",
+      "company": {
+        "name": "Eva Studio"
+      }
+    },
+    {
+      "id": "0709",
+      "name": "Tamiru",
+      "email": "abebetesema992@gmail.com",
+      "phone": "90-878-",
+      "website": "9-8ypiu"
+    }
+  ]
+}
